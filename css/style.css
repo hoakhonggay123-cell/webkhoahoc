@@ -1994,6 +1994,7 @@ nav {
 }
 
 /* ==========================================================================
+<<<<<<< Updated upstream
    LỊCH HỌC TRỰC TUYẾN (ZOOM CALENDAR WIDGET)
    ========================================================================== */
 
@@ -2219,6 +2220,8 @@ nav {
 }
 
 /* ==========================================================================
+=======
+>>>>>>> Stashed changes
    RESPONSIVE (MOBILE-FRIENDLY & LAPTOP TUNING)
    ========================================================================== */
 
@@ -2330,9 +2333,4 @@ nav {
   .flow-actions { flex-direction: column-reverse; gap: 10px; }
   .flow-actions .btn { width: 100%; }
   .footer-grid { grid-template-columns: 1fr; }
-
-  .calendar-widget-card { padding: 1.1rem; }
-  .calendar-days-grid { gap: 4px; }
-  .calendar-day-cell { font-size: 0.75rem; border-radius: var(--radius-sm); }
-  .calendar-day-dot { min-width: 13px; height: 13px; font-size: 0.55rem; }
 }
